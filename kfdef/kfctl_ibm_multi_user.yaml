@@ -152,5 +152,5 @@ spec:
   #   name: spark-operator
   repos:
   - name: manifests
-    uri: https://github.com/kubeflow/manifests/archive/master.tar.gz
+    uri: https://github.com/yhwang/manifests/archive/update-authservice.tar.gz
   version: master
